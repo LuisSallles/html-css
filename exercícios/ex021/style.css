@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+* {
+    
+}
+:root {
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+ }
+
+ body {
+    background-color:var(--cor0);
+ }
+
+ h1 {
+    color: var(--cor1);
+ }
+
